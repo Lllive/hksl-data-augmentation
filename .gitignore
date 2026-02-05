@@ -1,0 +1,10 @@
+__pycache__/
+*.log
+*.csv
+.env
+.DS_Store
+LLaMA-Factory/
+models/
+saves/
+llamaboard_cache/
+data/
